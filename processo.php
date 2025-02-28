@@ -2,7 +2,7 @@
 
 function getJogosMaisVendidos()
 {
-    // HTML da página 
+    // HTML da página
     $url = "https://store.steampowered.com/search/?hidef2p=1&filter=topsellers&ndl=1";
 
     // Inicializa o cURL
@@ -52,7 +52,7 @@ function getJogosMaisVendidos()
             'titulo' => $titulo,
             'preco' => $preco,
             'avaliacao' => $avaliacao,
-            'link' => $link 
+            'link' => $link
         ];
     }
 
@@ -63,3 +63,4 @@ $jogos = getJogosMaisVendidos();
 $dadosJson = json_encode($jogos, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
 file_put_contents("jogos.json", $dadosJson);
 ?>
+

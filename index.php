@@ -1,47 +1,45 @@
+<?php
+$jogos = json_decode(file_get_contents("jogos.json"), true);
+?>
+
 <!DOCTYPE html5>
 <html lang="pt-BR">
     <head>
-
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Jogos Mais Vendidos da Steam</title>
         <style>
-
             body {
                 font-family: Arial, sans-serif;
                 margin: 20px;
                 padding: 20px;
                 background-color: #f4f4f4;
             }
-
             table {
                 width: 100%;
                 border-collapse: collapse;
                 background: white;
                 margin-top: 20px;
             }
-
             th, td {
                 border: 1px solid #ddd;
                 padding: 10px;
                 text-align: left;
             }
-
             th {
                 background-color: #0078D7;
                 color: white;
             }
-
             tr:nth-child(even) {
                 background-color: #f2f2f2;
             }
-
             a {
                 color: #0078D7;
                 text-decoration: none;
             }
-
             a:hover {
                 text-decoration: underline;
             }
-
         </style>
     </head>
     <body>
