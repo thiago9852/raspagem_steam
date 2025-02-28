@@ -1,0 +1,352 @@
+[
+    {
+        "posicao": 1,
+        "titulo": "Monster Hunter Wilds",
+        "preco": "R$279,00",
+        "avaliacao": "Sem avaliação",
+        "link": "https:\/\/store.steampowered.com\/app\/2246340\/Monster_Hunter_Wilds\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 2,
+        "titulo": "R.E.P.O.",
+        "preco": "-20%R$32,99R$26,39",
+        "avaliacao": "Overwhelmingly Positive 98% of the 1,445 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/3241660\/REPO\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 3,
+        "titulo": "Black Desert",
+        "preco": "-70%R$17,46R$5,23",
+        "avaliacao": "Mostly Positive 75% of the 58,073 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/582660\/Black_Desert\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 4,
+        "titulo": "Euro Truck Simulator 2",
+        "preco": "-75%-73%R$34,20R$9,34",
+        "avaliacao": "Overwhelmingly Positive 97% of the 637,152 user reviews for this game are positive.  This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.",
+        "link": "https:\/\/store.steampowered.com\/app\/227300\/Euro_Truck_Simulator_2\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 5,
+        "titulo": "Tom Clancy's Rainbow Six® Siege",
+        "preco": "-80%R$84,99R$16,99",
+        "avaliacao": "Very Positive 84% of the 1,161,416 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/359550\/Tom_Clancys_Rainbow_Six_Siege\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 6,
+        "titulo": "Carry The Glass",
+        "preco": "R$16,99",
+        "avaliacao": "Mostly Positive 78% of the 909 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/3263320\/Carry_The_Glass\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 7,
+        "titulo": "Lies of P",
+        "preco": "-40%R$249,90R$149,94",
+        "avaliacao": "Very Positive 92% of the 35,199 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/1627720\/Lies_of_P\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 8,
+        "titulo": "Grand Theft Auto V",
+        "preco": "-25%R$105,66",
+        "avaliacao": "Very Positive 87% of the 1,798,337 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/271590\/Grand_Theft_Auto_V\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 9,
+        "titulo": "EA SPORTS FC™ 25",
+        "preco": "-70%R$197,40",
+        "avaliacao": "Mixed 47% of the 49,618 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2669320\/EA_SPORTS_FC_25\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 10,
+        "titulo": "Kingdom Come: Deliverance II",
+        "preco": "R$299,00",
+        "avaliacao": "Very Positive 92% of the 47,873 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/1771300\/Kingdom_Come_Deliverance_II\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 11,
+        "titulo": "American Truck Simulator",
+        "preco": "-75%-73%R$34,20R$9,34",
+        "avaliacao": "Overwhelmingly Positive 97% of the 139,547 user reviews for this game are positive.  This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.",
+        "link": "https:\/\/store.steampowered.com\/app\/270880\/American_Truck_Simulator\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 12,
+        "titulo": "Path of Exile 2",
+        "preco": "R$79,80",
+        "avaliacao": "Very Positive 81% of the 103,346 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2694490\/Path_of_Exile_2\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 13,
+        "titulo": "Ready or Not",
+        "preco": "-40%R$131,99R$79,19",
+        "avaliacao": "Very Positive 89% of the 175,095 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/1144200\/Ready_or_Not\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 14,
+        "titulo": "Tom Clancy's Ghost Recon® Breakpoint",
+        "preco": "-90%R$179,00R$17,90",
+        "avaliacao": "Mostly Positive 72% of the 25,737 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2231380\/Tom_Clancys_Ghost_Recon_Breakpoint\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 15,
+        "titulo": "Far Cry® 5",
+        "preco": "-90%R$179,99R$17,99",
+        "avaliacao": "Very Positive 80% of the 152,785 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/552520\/Far_Cry_5\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 16,
+        "titulo": "Sid Meier's Civilization VII",
+        "preco": "R$349,90",
+        "avaliacao": "Mixed 50% of the 24,895 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/1295660\/Sid_Meiers_Civilization_VII\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 17,
+        "titulo": "ELDEN RING",
+        "preco": "R$229,90",
+        "avaliacao": "Very Positive 92% of the 747,289 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/1245620\/ELDEN_RING\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 18,
+        "titulo": "Jurassic World Evolution 2",
+        "preco": "-70%R$109,99R$32,99",
+        "avaliacao": "Very Positive 89% of the 28,305 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/1244460\/Jurassic_World_Evolution_2\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 19,
+        "titulo": "Dead by Daylight",
+        "preco": "R$59,97",
+        "avaliacao": "Mostly Positive 79% of the 568,108 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/381210\/Dead_by_Daylight\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 20,
+        "titulo": "Baldur's Gate 3",
+        "preco": "R$199,99",
+        "avaliacao": "Overwhelmingly Positive 96% of the 645,530 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/1086940\/Baldurs_Gate_3\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 21,
+        "titulo": "ULTRAKILL",
+        "preco": "-33%R$59,99R$40,19",
+        "avaliacao": "Overwhelmingly Positive 97% of the 133,895 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/1229490\/ULTRAKILL\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 22,
+        "titulo": "Star Wars Outlaws",
+        "preco": "-50%R$349,99R$174,99",
+        "avaliacao": "Mostly Positive 76% of the 2,493 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2842040\/Star_Wars_Outlaws\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 23,
+        "titulo": "Sonic Frontiers",
+        "preco": "R$289,00",
+        "avaliacao": "Very Positive 91% of the 19,094 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/1237320\/Sonic_Frontiers\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 24,
+        "titulo": "iRacing",
+        "preco": "R$32,99",
+        "avaliacao": "Very Positive 83% of the 3,161 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/266410\/iRacing\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 25,
+        "titulo": "Yu-Gi-Oh! EARLY DAYS COLLECTION",
+        "preco": "R$199,95",
+        "avaliacao": "Mixed 69% of the 36 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/3013550\/YuGiOh_EARLY_DAYS_COLLECTION\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 26,
+        "titulo": "Ranch Simulator: Build, Hunt, Farm",
+        "preco": "-80%R$47,49R$9,49",
+        "avaliacao": "Very Positive 81% of the 27,318 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/1119730\/Ranch_Simulator_Build_Hunt_Farm\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 27,
+        "titulo": "Wallpaper Engine",
+        "preco": "R$17,99",
+        "avaliacao": "Overwhelmingly Positive 98% of the 806,247 user reviews for this software are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/431960\/Wallpaper_Engine\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 28,
+        "titulo": "FINAL FANTASY XIV Online",
+        "preco": "R$52,99",
+        "avaliacao": "Very Positive 87% of the 72,442 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/39210\/FINAL_FANTASY_XIV_Online\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 29,
+        "titulo": "EA Play",
+        "preco": "R$30,00",
+        "avaliacao": "Sem avaliação",
+        "link": "https:\/\/store.steampowered.com\/app\/1289670\/EA_Play\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 30,
+        "titulo": "Call of Duty®: Black Ops 6",
+        "preco": "R$339,00",
+        "avaliacao": "Mixed 47% of the 10,807 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2933620\/Call_of_Duty_Black_Ops_6\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 31,
+        "titulo": "Granblue Fantasy Versus: Rising",
+        "preco": "-61%R$179,90R$70,16",
+        "avaliacao": "Very Positive 81% of the 4,349 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2157560\/Granblue_Fantasy_Versus_Rising\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 32,
+        "titulo": "Far Cry® 4",
+        "preco": "-80%R$89,99R$17,99",
+        "avaliacao": "Very Positive 84% of the 54,243 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/298110\/Far_Cry_4\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 33,
+        "titulo": "Balatro",
+        "preco": "R$44,99",
+        "avaliacao": "Overwhelmingly Positive 98% of the 105,361 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2379780\/Balatro\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 34,
+        "titulo": "Assassin’s Creed® IV Black Flag™",
+        "preco": "-70%R$119,99R$35,99",
+        "avaliacao": "Very Positive 88% of the 62,669 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/242050\/Assassins_Creed_IV_Black_Flag\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 35,
+        "titulo": "Stardew Valley",
+        "preco": "R$24,99",
+        "avaliacao": "Overwhelmingly Positive 98% of the 730,460 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/413150\/Stardew_Valley\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 36,
+        "titulo": "F1® Manager 2024",
+        "preco": "-65%R$101,99R$35,69",
+        "avaliacao": "Mostly Positive 75% of the 2,782 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2591280\/F1_Manager_2024\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 37,
+        "titulo": "Marvel's Spider-Man 2",
+        "preco": "R$249,90",
+        "avaliacao": "Mostly Positive 71% of the 10,207 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2651280\/Marvels_SpiderMan_2\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 38,
+        "titulo": "Microsoft Flight Simulator 2024",
+        "preco": "R$299,99",
+        "avaliacao": "Mixed 45% of the 11,375 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2537590\/Microsoft_Flight_Simulator_2024\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 39,
+        "titulo": "Phasmophobia",
+        "preco": "-25%R$59,99R$44,99",
+        "avaliacao": "Overwhelmingly Positive 96% of the 613,414 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/739630\/Phasmophobia\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 40,
+        "titulo": "HELLDIVERS™ 2",
+        "preco": "R$199,50",
+        "avaliacao": "Mostly Positive 76% of the 714,632 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/553850\/HELLDIVERS_2\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 41,
+        "titulo": "Far Cry® 6",
+        "preco": "-75%R$249,99R$62,49",
+        "avaliacao": "Mostly Positive 71% of the 23,564 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2369390\/Far_Cry_6\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 42,
+        "titulo": "EA SPORTS FC™ 24",
+        "preco": "-70%R$197,40",
+        "avaliacao": "Mixed 57% of the 91,527 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2195250\/EA_SPORTS_FC_24\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 43,
+        "titulo": "Stray",
+        "preco": "-40%R$79,99R$47,99",
+        "avaliacao": "Overwhelmingly Positive 97% of the 136,019 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/1332010\/Stray\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 44,
+        "titulo": "Cyberpunk 2077",
+        "preco": "R$199,90",
+        "avaliacao": "Very Positive 85% of the 726,721 user reviews for this game are positive.  This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.",
+        "link": "https:\/\/store.steampowered.com\/app\/1091500\/Cyberpunk_2077\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 45,
+        "titulo": "NBA 2K25",
+        "preco": "-72%-5%R$181,97R$173,57",
+        "avaliacao": "Mixed 59% of the 15,001 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2878980\/NBA_2K25\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 46,
+        "titulo": "Project Zomboid",
+        "preco": "R$59,99",
+        "avaliacao": "Very Positive 94% of the 273,253 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/108600\/Project_Zomboid\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 47,
+        "titulo": "Hello Kitty Island Adventure",
+        "preco": "R$147,45",
+        "avaliacao": "Very Positive 93% of the 3,037 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2495100\/Hello_Kitty_Island_Adventure\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 48,
+        "titulo": "Diablo® IV",
+        "preco": "R$229,90",
+        "avaliacao": "Mostly Positive 71% of the 32,920 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2344520\/Diablo_IV\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 49,
+        "titulo": "Black Myth: Wukong",
+        "preco": "R$229,99",
+        "avaliacao": "Overwhelmingly Positive 96% of the 823,489 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/2358720\/Black_Myth_Wukong\/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "posicao": 50,
+        "titulo": "Rust",
+        "preco": "R$119,99",
+        "avaliacao": "Very Positive 87% of the 988,325 user reviews for this game are positive.",
+        "link": "https:\/\/store.steampowered.com\/app\/252490\/Rust\/?snr=1_7_7_7000_150_1"
+    }
+]
